@@ -9,7 +9,6 @@ import {
   StarsCanvas,
 } from "./canvas";
 import { Contact } from "./contact";
-import { Experience } from "./experience";
 import { Feedbacks } from "./feedbacks";
 import { Hero } from "./hero";
 import { Navbar } from "./navbar";
@@ -22,7 +21,6 @@ export {
   ComputersCanvas,
   Contact,
   EarthCanvas,
-  Experience,
   Feedbacks,
   Hero,
   Navbar,
