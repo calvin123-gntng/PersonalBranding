@@ -34,7 +34,7 @@ import {
   user3,
   youtube,
   linkedin,
-  twitter,
+ twitter,
   github,
 } from "../assets";
 
@@ -55,11 +55,7 @@ export const NAV_LINKS = [
     title: "Contact",
     link: null,
   },
-  {
-    id: "source-code",
-    title: "Source Code",
-    link: "http://www.github.com/sanidhyy/3d-portfolio/",
-  },
+ 
 ] as const;
 
 // Services
@@ -366,7 +362,7 @@ export const SOCIALS = [
   {
     name: "YouTube",
     icon: youtube,
-    link: "https://www.youtube.com/@OPGAMER.",
+    link: "https://www.youtube.com/channel/UCo_BJ39RmzIgeHHuqXsjJfg",
   },
   {
     name: "Linkedin",
@@ -374,9 +370,9 @@ export const SOCIALS = [
     link: "https://www.linkedin.com/in/sanidhyy",
   },
   {
-    name: "Twitter",
+    name: "instagram",
     icon: twitter,
-    link: "https://twitter.com/TechnicalShubam",
+    link: "https://www.instagram.com/cal.tj_",
   },
   {
     name: "GitHub",
