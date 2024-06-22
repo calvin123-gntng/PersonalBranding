@@ -50,7 +50,7 @@ export const Navbar = ({ hide }: NavbarProps) => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src={calvinface}  className="w-[32px] h-[32px] rounded-full" /> 
+          {/* <img src={calvinface}  className="w-[32px] h-[32px] rounded-full" />  */}
           <p className="text-white text-[18px] font-bold cursor-pointer flex">
             Calvin Tjoaquinn&nbsp;<span className="sm:block hidden">| Developer</span>
           </p>
