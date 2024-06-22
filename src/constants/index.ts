@@ -72,10 +72,7 @@ export const SERVICES = [
     title: "Backend Developer",
     icon: backend,
   },
-  {
-    title: "Content Creator",
-    icon: creator,
-  },
+  
 ] as const;
 
 // Technologies
@@ -367,7 +364,7 @@ export const SOCIALS = [
   {
     name: "Linkedin",
     icon: linkedin,
-    link: "https://www.linkedin.com/in/sanidhyy",
+    link: "https://www.linkedin.com/in/calvin-tjoaquinn-06b81a180/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=id",
   },
   {
     name: "instagram",
@@ -377,6 +374,6 @@ export const SOCIALS = [
   {
     name: "GitHub",
     icon: github,
-    link: "https://github.com/sanidhyy",
+    link: "https://github.com/calvin123-gntng",
   },
 ] as const;

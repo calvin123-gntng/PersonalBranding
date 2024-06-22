@@ -38,7 +38,7 @@ const ServiceCard = ({ index, title, icon }: ServiceCardProps) => {
   );
 };
 
-// About
+// About Component
 export const About = () => {
   return (
     <SectionWrapper idName="about">
@@ -56,13 +56,13 @@ export const About = () => {
         >
           I'm a skilled website developer with experience in CSS and
           Javascript, and expertise in frameworks like React, Node.js, and
-          Bootstrap. I'm a quick learner and collaborate closely with clients to
+          Tailwind. I'm a quick learner and collaborate closely with clients to
           create efficient, scalable, and user-friendly solutions that solve
           real-world problems. Let's work together to bring your ideas to life!
         </motion.p>
 
         {/* Service Card */}
-        <div className="mt-20 flex flex-wrap gap-10">
+        <div className="mt-20 flex flex-wrap gap-10 justify-center">
           {SERVICES.map((service, i) => (
             <ServiceCard key={service.title} index={i} {...service} />
           ))}
