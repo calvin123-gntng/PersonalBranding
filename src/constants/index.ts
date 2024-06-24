@@ -240,8 +240,8 @@ export const PROJECTS = [
       },
     ],
     image: project1,
-    source_code_link: "https://github.com/sanidhyy/disney-clone",
-    live_site_link: "https://clonedisneyplus.web.app/",
+    source_code_link: "https://github.com/calvin123-gntng/Disney-clone.git",
+    live_site_link: "https://disneycloning.netlify.app",
   },
   {
     name: "Golds Gym",
