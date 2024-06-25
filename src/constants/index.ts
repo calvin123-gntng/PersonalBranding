@@ -262,8 +262,8 @@ export const PROJECTS = [
       },
     ],
     image: project2,
-    source_code_link: "https://github.com/sanidhyy/fitness-app",
-    live_site_link: "https://fitness-gym-react.netlify.app/",
+    source_code_link: "https://github.com/calvin123-gntng/fitness-main.git",
+    live_site_link: "https://main--fitnessappmain.netlify.app",
   },
   {
     name: "Shoppy",
