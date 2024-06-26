@@ -284,7 +284,7 @@ export const PROJECTS = [
       },
     ],
     image: project3,
-    source_code_link: "https://github.com/sanidhyy/admin-dashboard",
+    source_code_link: "https://github.com/calvin123-gntng/admin-dashboard-shoppy.git",
     live_site_link: "https://shoppy-dashboard-react.netlify.app/",
   },
   {
@@ -306,7 +306,7 @@ export const PROJECTS = [
       },
     ],
     image: project4,
-    source_code_link: "https://github.com/sanidhyy/tiktok-clone",
+    source_code_link: "https://github.com/calvin123-gntng/tiktokclonemain.git",
     live_site_link: "https://tiktok-clone-react.vercel.app/",
   },
   {
@@ -328,7 +328,7 @@ export const PROJECTS = [
       },
     ],
     image: project5,
-    source_code_link: "https://github.com/sanidhyy/crypto-app",
+    source_code_link: "https://github.com/calvin123-gntng/cryptoappmain.git",
     live_site_link: "https://reactjscryptoapp.netlify.app/",
   },
   {
@@ -350,7 +350,7 @@ export const PROJECTS = [
       },
     ],
     image: project6,
-    source_code_link: "https://github.com/sanidhyy/travel-advisor",
+    source_code_link: "https://github.com/calvin123-gntng/traveladvisormain.git",
     live_site_link: "https://travel-advisor-reactjs.netlify.app/",
   },
 ] as const;
